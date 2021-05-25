@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Palisar
-- 👀 I’m interested in learning to code in C#
-- 🌱 I’m currently learning Beginner level C#
-- 💞️ I’m looking to collaborate on nothing as of yet.
-- 📫 How to reach me ...
+- 👀 I’m interested in learning to code in C#. I want to develop an app in an industry that is almost devoid of it.
+- 🌱 I’m currently learning C# and .NET
+- 💞️ I’m looking to collaborate on app developement.
+
 
 <!---
 Palisar/Palisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
