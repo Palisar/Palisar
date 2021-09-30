@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Palisar
-- 👀 I’m interested in learning to code in C#. I want to develop an app in an industry that is almost devoid of it.
-- 🌱 I’m currently learning C# .NET XAML
-- 💞️ I’m looking to collaborate on app developement.
-
+- I have been working in the commercial fishing industry for the last 12 years and am now turning my eyes towards mt dream job of being a software developer!
+- 👀 I’m interested in C# colaberation and open source. 
+- 🌱 I’m currently working on a full stack web application, working on the backend API, with the Code2Gether Discord group.
+- 💞️ I’m looking to collaberate on backend projects!
+-
 
 <!---
 Palisar/Palisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
