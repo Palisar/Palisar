@@ -3,7 +3,6 @@
 - 👀 I’m interested in C# colaberation and open source. 
 - 🌱 I’m currently working on a full stack web application, working on improving my testing abilities and learning some new technologies.
 - 💞️ I’m looking to collaberate on backend projects!
--
 
 <!---
 Palisar/Palisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
