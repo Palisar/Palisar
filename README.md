@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Palisar
 - After working in the commercial fishing industry for 13 years and am now working in my dream job as a backend .NET Developer!
 - 👀 I’m interested in C#/.NET colaberation and open source. 
-- 🌱 I’m currently working as a backend developer, working on a greenfield microservices project that is cloud native, hosted on Azure Kubernetes Service
+- 🌱 I’m currently working as a backend developer, working on a greenfield microservices project that is cloud native, hosted on Azure Services
 - 💞️ I’m looking to collaberate on backend projects!
 
 <!---
